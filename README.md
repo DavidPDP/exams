@@ -19,13 +19,13 @@
 </p>
 
 ### Actividades
-Incluir nombre, código (5%).  
-Realice la implementación del servicio web para la URI **/?????** (20%).  
-Realice la implementación del servicio web para la URI **/?????/????????_???????** (20%).  
-Consigne los pasos necesarios para la ejecución y prueba de su solución. Tenga en cuenta incluir la creación del ambiente, activación, apertura de puertos, reinicio de servicios, entre otros (20%).  
-Consigne capturas de pantalla de la solución usando la extensión postman (10%).  
-Debe entregar un archivo README.md y su respectiva versión en pdf con el informe de su examen. El código fuente debe incluirse en el informe (10%).  
-Debe consignar la url del repositorio de github donde este ubicado el README.md y el código fuente de su solución (10%).  
-Ortografía y redacción cuando sea necesario (5%).  
+1. Incluir nombre, código (5%).  
+2. Realice la implementación del servicio web para la URI **/?????** (20%).  
+3. Realice la implementación del servicio web para la URI **/?????/????????_???????** (20%).  
+4. Consigne los pasos necesarios para la ejecución y prueba de su solución. Tenga en cuenta incluir la creación del ambiente, activación, apertura de puertos, reinicio de servicios, entre otros (20%).  
+5. Consigne capturas de pantalla de la solución usando la extensión postman (10%).  
+6. Debe entregar un archivo README.md y su respectiva versión en pdf con el informe de su examen. El código fuente debe incluirse en el informe (10%).  
+7. Debe consignar la url del repositorio de github donde este ubicado el README.md y el código fuente de su solución (10%).  
+8. Ortografía y redacción cuando sea necesario (5%).  
 ### Referencias
 https://atom.io/packages/markdown-pdf
