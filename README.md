@@ -27,5 +27,6 @@
 6. Debe entregar un archivo README.md y su respectiva versión en pdf con el informe de su examen. El código fuente debe incluirse en el informe (10%).  
 7. Debe consignar la url del repositorio de github donde este ubicado el README.md y el código fuente de su solución (10%).  
 8. Ortografía y redacción cuando sea necesario (5%).  
-### Referencias
+
+### Referencias 
 https://atom.io/packages/markdown-pdf
