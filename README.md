@@ -14,7 +14,9 @@
 
 ### Descripción
 
-![][1]
+<p align="center">
+  <img src="images/question_mark.jpeg" alt="Sublime's custom image"/>
+</p>
 
 ### Actividades
 Incluir nombre, código (5%).  
@@ -27,5 +29,3 @@ Debe consignar la url del repositorio de github donde este ubicado el README.md 
 Ortografía y redacción cuando sea necesario (5%).  
 ### Referencias
 https://atom.io/packages/markdown-pdf
-
-[1]: images/question_mark.jpeg
