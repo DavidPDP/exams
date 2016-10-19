@@ -68,8 +68,8 @@ Descripción del formato de intercambio de datos (JSON)
 3. Realice la implementación del servicio web para la URI **/files/recently_created** (20%).  
 4. Consigne los pasos necesarios para la ejecución y prueba de su solución. Tenga en cuenta incluir la creación del ambiente, activación, apertura de puertos, reinicio de servicios, entre otros (20%).  
 5. Consigne capturas de pantalla de la solución usando la extensión postman (10%).  
-6. Debe entregar un archivo README.md y su respectiva versión en pdf con el informe de su examen. El código fuente debe incluirse en el informe (10%).  
-7. Debe consignar la url del repositorio de github donde este ubicado el README.md y el código fuente de su solución (10%).  
+6. Debe entregar un archivo README.md y su respectiva versión en pdf con el informe de su examen a través del enlace habilitado en moodle. El código fuente debe incluirse en el informe (10%).  
+7. En el informe debe consignar la url del repositorio de github donde este ubicado el README.md y los archivos del código fuente de su solución (10%).  
 8. Ortografía y redacción cuando sea necesario (5%).  
 
 ### Referencias 
